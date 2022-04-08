@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Seydbasil</h1>
 <h3 align="center">A passionate and experienced Android developer from India</h3>
 
+- My featured project is [Gallery all in one](https://play.google.com/store/apps/details?id=com.smbvt.bst.filegallery)
+
+- My app which helps to prepare Google Android certificate exam [Exam Certificate](https://play.google.com/store/apps/details?id=com.smbvt.bst.adc)
+
+- An app to learn English [E Reader](https://play.google.com/store/apps/details?id=com.smbvt.bst.ereader)
+
 - 📫 How to reach me **seydbasil@gmail.com**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1dy4u9weC-HsZizmGT-QFjuLGPtKX-UGA/edit?usp=sharing&ouid=102543978079137233333&rtpof=true&sd=true](https://docs.google.com/document/d/1dy4u9weC-HsZizmGT-QFjuLGPtKX-UGA/edit?usp=sharing&ouid=102543978079137233333&rtpof=true&sd=true)
